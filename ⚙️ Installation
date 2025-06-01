@@ -1,0 +1,9 @@
+To get started with Argus, follow these simple steps:
+
+git clone https://github.com/jasonxtn/argus.git
+cd darkboss1-information-gathering
+pip install -r requirements.txt
+
+Once installed, you can launch darkboss1 with:
+
+python darkboss1-information-gathering.py
